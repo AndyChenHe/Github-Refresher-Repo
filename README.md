@@ -8,4 +8,6 @@ For a Git/Github refresher in lab.
 5. `git commit -m “<message>”`
 6. `git push`
 
+Changes are made by He Chen
+
 
